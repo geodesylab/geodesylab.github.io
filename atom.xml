@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://geodesylab.github.io</id>
     <title>Geodesy Lab</title>
-    <updated>2021-12-29T10:05:14.832Z</updated>
+    <updated>2021-12-29T12:35:07.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://geodesylab.github.io"/>
     <link rel="self" href="https://geodesylab.github.io/atom.xml"/>
@@ -21,23 +21,25 @@
         <link href="https://geodesylab.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>✍️<font size=5><strong>We focus on Geometric image analysis and visual computation.</strong></font><br>
+        <summary type="html"><![CDATA[<p><font size=5>✍️<strong>We focus on Geometric image analysis and visual computation.</strong></font><br>
 <br/></p>
 <p>🌎 <font size=5><strong>We develop the</strong></font><br>
 <br/></p>
 <p>💻<font size=5> <strong>We aimed to</strong></font><br>
 <br/></p>
 <p>🤝<font size=5><strong>We welcome collaborators with different backgrounds to join our research.</strong></font><br>
-<br/></p>
+<br/><br>
+<img src="https://geodesylab.github.io/post-images/1640779990868.png" alt="" loading="lazy"></p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>✍️<font size=5><strong>We focus on Geometric image analysis and visual computation.</strong></font><br>
+        <content type="html"><![CDATA[<p><font size=5>✍️<strong>We focus on Geometric image analysis and visual computation.</strong></font><br>
 <br/></p>
 <p>🌎 <font size=5><strong>We develop the</strong></font><br>
 <br/></p>
 <p>💻<font size=5> <strong>We aimed to</strong></font><br>
 <br/></p>
 <p>🤝<font size=5><strong>We welcome collaborators with different backgrounds to join our research.</strong></font><br>
-<br/></p>
+<br/><br>
+<img src="https://geodesylab.github.io/post-images/1640779990868.png" alt="" loading="lazy"></p>
 <!-- more -->
 <!-- more -->
 <!--👏  欢迎使用 **Gridea** ！  
