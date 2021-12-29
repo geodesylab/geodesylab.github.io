@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://geodesylab.github.io</id>
-    <title>Da Chen Group</title>
-    <updated>2021-12-29T03:12:05.982Z</updated>
+    <title>Geodesy Lab</title>
+    <updated>2021-12-29T07:50:27.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://geodesylab.github.io"/>
     <link rel="self" href="https://geodesylab.github.io/atom.xml"/>
-    <subtitle>Da Chen Group
-&lt;html&gt;
+    <subtitle>&lt;html&gt;
 &lt;body&gt;
   &lt;em&gt;&lt;font size=&quot;5&quot;&gt;Welcome to join us&lt;/font&gt;&lt;/em&gt;&lt;br /&gt;
   &lt;/body&gt;
@@ -15,37 +14,72 @@
 </subtitle>
     <logo>https://geodesylab.github.io/images/avatar.png</logo>
     <icon>https://geodesylab.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Da Chen Group</rights>
+    <rights>All rights reserved 2021, Geodesy Lab</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <title type="html"><![CDATA[Geodesy Lab led by Da Chen at QLU University, Jinan, China.]]></title>
         <id>https://geodesylab.github.io/post/hello-gridea</id>
         <link href="https://geodesylab.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <summary type="html"><![CDATA[<p>✍️<font size=5><strong>We focus on Geometric image analysis and visual computation.</strong></font><br>
+<br/></p>
+<p>🌎 <font size=5><strong>We develop the</strong></font><br>
+<br/></p>
+<p>💻<font size=5> <strong>We aimed to</strong></font><br>
+<br/></p>
+<p>🤝<font size=5><strong>We welcome collaborators with different backgrounds to join our research.</strong></font><br>
+<br/></p>
+<figure data-type="image" tabindex="1"><img src="https://geodesylab.github.io/post-images/1640760880788.png" alt="" loading="lazy"></figure>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <content type="html"><![CDATA[<p>✍️<font size=5><strong>We focus on Geometric image analysis and visual computation.</strong></font><br>
+<br/></p>
+<p>🌎 <font size=5><strong>We develop the</strong></font><br>
+<br/></p>
+<p>💻<font size=5> <strong>We aimed to</strong></font><br>
+<br/></p>
+<p>🤝<font size=5><strong>We welcome collaborators with different backgrounds to join our research.</strong></font><br>
+<br/></p>
+<figure data-type="image" tabindex="1"><img src="https://geodesylab.github.io/post-images/1640760880788.png" alt="" loading="lazy"></figure>
 <!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+<!-- more -->
+<!--👏  欢迎使用 **Gridea** ！  
+✍️  **Gridea** 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ... 
+123
+456
+789
+10 11 12
+<!-- more -->
+<!--[Github](https://github.com/getgridea/gridea)  
+[Gridea 主页](https://gridea.dev/)  
+[示例网站](http://fehey.com/)-->
+<!--## 特性👇
+📝  你可以使用最酷的 **Markdown** 语法，进行快速创作  
+
+🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片  
+
+🏷️  你可以对文章进行标签分组  
+
+📋  你可以自定义菜单，甚至可以创建外部链接菜单  
+
+💻  你可以在 **Windows**，**MacOS** 或 **Linux** 设备上使用此客户端  
+
+🌎  你可以使用 **𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌** 或 **Coding Pages** 向世界展示，未来将支持更多平台  
+
+💬  你可以进行简单的配置，接入 [Gitalk](https://github.com/gitalk/gitalk) 或 [DisqusJS](https://github.com/SukkaW/DisqusJS) 评论系统  
+
+🇬🇧  你可以使用**中文简体**或**英语**  
+
+🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力  
+
+🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步  
+
+🌱 当然 **Gridea** 还很年轻，有很多不足，但请相信，它会不停向前 🏃
+
+未来，它一定会成为你离不开的伙伴
+
+尽情发挥你的才华吧！
+
+😘 Enjoy~
 ]]></content>
     </entry>
 </feed>
